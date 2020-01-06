@@ -30,6 +30,7 @@ F:\gmall\gmall\gmall-admin\src\main\java\com\atguigu\common\validator\group\Grou
 F:\gmall\gmall\gmall-admin\src\main\java\com\atguigu\modules\sys\dao\SysRoleDao.java
 F:\gmall\gmall\gmall-admin\src\main\java\com\atguigu\common\xss\HTMLFilter.java
 F:\gmall\gmall\gmall-admin\src\main\java\com\atguigu\common\utils\ShiroUtils.java
+F:\gmall\gmall\gmall-admin\src\main\java\com\atguigu\config\DataSourceConfig.java
 F:\gmall\gmall\gmall-admin\src\main\java\com\atguigu\modules\sys\controller\SysUserController.java
 F:\gmall\gmall\gmall-admin\src\main\java\com\atguigu\modules\job\entity\ScheduleJobEntity.java
 F:\gmall\gmall\gmall-admin\src\main\java\com\atguigu\modules\app\form\LoginForm.java

@@ -9,6 +9,12 @@
       "name": "guli.jwt",
       "type": "com.atguigu.modules.app.utils.JwtUtils",
       "sourceType": "com.atguigu.modules.app.utils.JwtUtils"
+    },
+    {
+      "name": "spring.datasource",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.atguigu.config.DataSourceConfig",
+      "sourceMethod": "dataSource(java.lang.String)"
     }
   ],
   "properties": [
